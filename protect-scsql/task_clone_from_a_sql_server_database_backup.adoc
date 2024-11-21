@@ -57,7 +57,7 @@ NOTE: A clonagem de um backup de uma instância não é suportada.
 
 . Selecione o banco de dados ou o grupo de recursos.
 . Na página de exibição Gerenciar cópias, selecione o backup no sistema de storage primário ou secundário (espelhado ou abobadado).
-. Selecione a cópia de segurança e, em seguida, clique em *image:../media/clone_icon.gif[""]* *.
+. Selecione a cópia de segurança e, em seguida, clique em *image:../media/clone_icon.gif["ícone de clone"]* *.
 . Na página Opções de clones, execute as seguintes ações:
 +
 |===

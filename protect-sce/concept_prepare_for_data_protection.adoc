@@ -72,4 +72,4 @@ Ao criar um grupo de recursos, você seleciona uma ou mais políticas para esse 
 
 Pense em um grupo de recursos como definindo _o que_ você quer proteger e quando você quer protegê-lo em termos de dia e tempo. Pense em uma política como definindo _como_ você quer protegê-la. Se você estiver fazendo backup de todos os bancos de dados de um host, por exemplo, poderá criar um grupo de recursos que inclua todos os bancos de dados no host. Em seguida, você pode anexar duas políticas ao grupo de recursos: Uma política diária e uma política por hora. Ao criar o grupo de recursos e anexar as políticas, você pode configurar o grupo de recursos para executar um backup completo diário e outro agendamento que executa backups de log por hora. A imagem a seguir ilustra a relação entre recursos, grupos de recursos e políticas para bancos de dados:
 
-image::../media/sce_resourcegroup_policy.gif[política sce resourcegroup]
+image::../media/sce_resourcegroup_policy.gif[política de grupo de recursos]

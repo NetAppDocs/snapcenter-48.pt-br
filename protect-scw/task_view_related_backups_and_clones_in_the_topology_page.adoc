@@ -67,7 +67,7 @@ Se você estiver usando plug-ins personalizados do SnapCenter, não será possí
 ** Se você estiver usando o Pacote de plug-ins do SnapCenter para Linux e tiver catalogado o backup usando o Gerenciador de recuperação do Oracle (RMAN), não será possível renomear esses backups catalogados.
 
 
-. Se você quiser excluir um clone, selecione o clone da tabela e clique image:../media/delete_icon.gif[""] para excluir o clone.
+. Se você quiser excluir um clone, selecione o clone da tabela e clique image:../media/delete_icon.gif["eliminar ícone"] para excluir o clone.
 
 
 *Exemplo mostrando backups e clones no armazenamento primário*

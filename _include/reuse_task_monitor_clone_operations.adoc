@@ -13,7 +13,7 @@ Os seguintes ícones são apresentados na página trabalhos e indicam o estado d
 * image:../media/failed_icon.gif["Ícone com falha"] Falha
 * image:../media/warning_icon.gif["Preenchido com ícone de avisos"] Preenchido com avisos ou não foi possível iniciar devido a avisos
 * image:../media/verification_job_in_queue.gif["O trabalho de verificação está na fila"] Em fila de espera
-* image:../media/cancel_icon.gif[""] Cancelado
+* image:../media/cancel_icon.gif["ícone cancelar"] Cancelado
 
 
 *Passos*
@@ -22,7 +22,7 @@ Os seguintes ícones são apresentados na página trabalhos e indicam o estado d
 . Na página Monitor, clique em *trabalhos*.
 . Na página trabalhos, execute as seguintes etapas:
 +
-.. Clique image:../media/filter_icon.gif[""] para filtrar a lista para que apenas operações de clone sejam listadas.
+.. Clique image:../media/filter_icon.gif["ícone de filtro"] para filtrar a lista para que apenas operações de clone sejam listadas.
 .. Especifique as datas de início e fim.
 .. Na lista suspensa *Type*, selecione *Clone*.
 .. Na lista suspensa *Status*, selecione o status do clone.

@@ -7,10 +7,10 @@ summary: Fornece informações importantes sobre esta versão do servidor SnapCe
 = Notas de lançamento
 :allow-uri-read: 
 :icons: font
-:imagesdir: ../media/
+:imagesdir: ./media/
 
 
 [role="lead"]
 Fornece informações importantes sobre esta versão do servidor SnapCenter e os pacotes plug-in do SnapCenter, incluindo problemas corrigidos, problemas conhecidos, precauções e limitações.
 
-Para obter mais informações, consulte https://library.netapp.com/ecm/ecm_download_file/ECMLP2885481["Notas de versão do software SnapCenter 4,8"^] .
+Para obter mais informações, consulte https://library.netapp.com/ecm/ecm_get_file/ECMLP2885481["Notas de versão do software SnapCenter 4,8"^] .

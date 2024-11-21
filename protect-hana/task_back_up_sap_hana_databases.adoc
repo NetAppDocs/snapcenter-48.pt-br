@@ -27,7 +27,7 @@ link:task_back_up_resource_groups_sap_hana.html["Fazer backup de grupos de recur
 
 * Se você quiser criar um backup baseado em arquivo quando um ou mais bancos de dados de locatário estiverem inativos, defina o parâmetro ALLOW_FILE_BASED_BACKUP_IFINACTIVO_TENANTS_PRESENT como *YES* no arquivo de propriedades HANA usando `Set-SmConfigSettings` cmdlet.
 +
-As informações sobre os parâmetros que podem ser usados com o cmdlet e suas descrições podem ser obtidas executando Get-Help _command_name_. Em alternativa, pode também consultar https://library.netapp.com/ecm/ecm_download_file/ECMLP2885482["Guia de referência de cmdlet do software SnapCenter"]
+As informações sobre os parâmetros que podem ser usados com o cmdlet e suas descrições podem ser obtidas executando Get-Help _command_name_. Em alternativa, pode também consultar https://docs.netapp.com/us-en/snapcenter-cmdlets-48/index.html["Guia de referência de cmdlet do software SnapCenter"]
 
 * Para os comandos pré e POST para operações do quiesce, cópia Snapshot e unquiesce, você deve verificar se os comandos existem na lista de comandos disponível no host do plug-in dos seguintes caminhos:
 +
@@ -46,7 +46,7 @@ NOTE: Se os comandos não existirem na lista de comandos, a operação falhará.
 . No painel de navegação esquerdo, clique em *Resources* e selecione o plug-in apropriado na lista.
 . Na página recurso, filtre os recursos da lista suspensa *Exibir* com base no tipo de recurso.
 +
-Clique em *image:../media/filter_icon.gif[""]* e selecione o nome do host e o tipo de recurso para filtrar os recursos. Em seguida, pode clicar image:../media/filter_icon.gif[""] para fechar o painel de filtro.
+Clique em *image:../media/filter_icon.gif["ícone de filtro"]* e selecione o nome do host e o tipo de recurso para filtrar os recursos. Em seguida, pode clicar image:../media/filter_icon.gif["ícone de filtro"] para fechar o painel de filtro.
 
 . Clique no recurso que você deseja fazer backup.
 . Na página recurso, selecione *Use o formato de nome personalizado para cópia Snapshot* e insira um formato de nome personalizado que você deseja usar para o nome da cópia Snapshot.
@@ -109,7 +109,7 @@ Selecione *Other* e digite o comando para criar uma cópia Snapshot.
 
 |===
 +
-image:../media/application_settings.gif[""]
+image:../media/application_settings.gif["definições da aplicação"]
 
 
 
@@ -118,12 +118,12 @@ image:../media/application_settings.gif[""]
 .. Selecione uma ou mais políticas na lista suspensa.
 +
 
-NOTE: Você também pode criar uma política clicando em *image:../media/add_policy_from_resourcegroup.gif[""]*.
+NOTE: Você também pode criar uma política clicando em *image:../media/add_policy_from_resourcegroup.gif["adicionar política do grupo de recursos"]*.
 
 +
 Na seção Configurar agendas para políticas selecionadas, as políticas selecionadas são listadas.
 
-.. Clique emimage:../media/add_policy_from_resourcegroup.gif[""]* * na coluna Configurar agendas para a política para a qual você deseja configurar um agendamento.
+.. Clique emimage:../media/add_policy_from_resourcegroup.gif["adicionar política do grupo de recursos"]* * na coluna Configurar agendas para a política para a qual você deseja configurar um agendamento.
 .. Na caixa de diálogo Adicionar agendas para política _policy_name_, configure a programação e clique em *OK*.
 +
 _policy_name_ é o nome da política selecionada.

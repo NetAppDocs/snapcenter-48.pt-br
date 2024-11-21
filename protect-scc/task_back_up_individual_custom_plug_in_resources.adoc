@@ -24,7 +24,7 @@ Se um recurso de plug-in personalizado individual não fizer parte de qualquer g
 . No painel de navegação esquerdo, clique em *Resources* e selecione o plug-in apropriado na lista.
 . Na página recursos, filtre recursos da lista suspensa *Exibir* com base no tipo de recurso.
 +
-Clique image:../media/filter_icon.gif[""]em e selecione o nome do host e o tipo de recurso para filtrar os recursos. Em seguida, pode clicar image:../media/filter_icon.gif[""] para fechar o painel de filtro.
+Clique image:../media/filter_icon.gif["ícone de filtro"]em e selecione o nome do host e o tipo de recurso para filtrar os recursos. Em seguida, pode clicar image:../media/filter_icon.gif["ícone de filtro"] para fechar o painel de filtro.
 
 . Clique no recurso que você deseja fazer backup.
 . Na página recurso, se você quiser usar um nome personalizado, marque a caixa de seleção *usar formato de nome personalizado para cópia Snapshot* e insira um formato de nome personalizado para o nome da cópia Snapshot.
@@ -58,7 +58,7 @@ Selecione esta opção para evitar forçar um ponto de consistência WAFL.
 
 |===
 +
-image:../media/application_settings.gif[""]
+image:../media/application_settings.gif["definições da aplicação"]
 
 .. Clique na seta *Scripts* para executar comandos pré e POST para operações quiesce, cópia Snapshot e unquiesce. Você também pode executar pré-comandos antes de sair da operação de backup.
 +
@@ -98,12 +98,12 @@ Selecione *Other* e digite o comando para criar uma cópia Snapshot.
 .. Selecione uma ou mais políticas na lista suspensa.
 +
 
-NOTE: Você também pode criar uma política clicando image:../media/add_policy_from_resourcegroup.gif[""]em .
+NOTE: Você também pode criar uma política clicando image:../media/add_policy_from_resourcegroup.gif["adicionar política do grupo de recursos"]em .
 
 +
 Na seção Configurar agendas para políticas selecionadas, as políticas selecionadas são listadas.
 
-.. Clique image:../media/add_policy_from_resourcegroup.gif[""] na coluna Configurar agendas para a política para a qual você deseja configurar um agendamento.
+.. Clique image:../media/add_policy_from_resourcegroup.gif["adicionar política do grupo de recursos"] na coluna Configurar agendas para a política para a qual você deseja configurar um agendamento.
 .. Na caixa de diálogo Adicionar agendas para política _policy_name_, configure a programação e clique em *OK*.
 +
 Onde, _policy_name_ é o nome da política selecionada.

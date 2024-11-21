@@ -17,7 +17,7 @@ O fluxo de trabalho do clone inclui Planejamento, execução da operação do cl
 
 Você deve ter preparado o ambiente do PowerShell para executar os cmdlets do PowerShell.
 
-Para obter informações sobre cmdlets do PowerShell, use a ajuda do cmdlet SnapCenter ou consulte https://library.netapp.com/ecm/ecm_download_file/ECMLP2885482["Guia de referência de cmdlet do software SnapCenter"^] .
+Para obter informações sobre cmdlets do PowerShell, use a ajuda do cmdlet SnapCenter ou consulte https://docs.netapp.com/us-en/snapcenter-cmdlets-48/index.html["Guia de referência de cmdlet do software SnapCenter"^] .
 
 *Passos*
 
