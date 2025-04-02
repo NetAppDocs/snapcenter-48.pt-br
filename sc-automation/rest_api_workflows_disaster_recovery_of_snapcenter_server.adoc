@@ -135,4 +135,4 @@ Ative ou desative o DR de armazenamento
 POST
 
 |===
-Para obter mais informações, consulte o https://www.youtube.com/watch?v=Nbr_wm9Cnd4&list=PLdXI3bZJEw7nofM6lN44eOe4aOSoryckg["APIs de recuperação de desastres"^] vídeo.
+Para obter mais informações, consulte o https://www.youtube.com/watch?v=_8NG-tTGy8k&list=PLdXI3bZJEw7nofM6lN44eOe4aOSoryckg["APIs de recuperação de desastres"^] vídeo.

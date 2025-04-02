@@ -4183,7 +4183,6 @@
   <block id="f367d650e57088caf7b808e01235016d" category="inline-link">Como restaurar do armazenamento secundário em SMBR com o SnapCenter</block>
   <block id="41b4c689a8b0e3ba8bfecb2a1e608e46" category="list-text"><block ref="41b4c689a8b0e3ba8bfecb2a1e608e46" category="inline-link-rx"></block></block>
   <block id="f004280f6db6ea5f9302c9851388d751" category="inline-link">Recuperando o Microsoft Exchange Mail do SnapVault usando SMBR</block>
-  <block id="1b0fb59a5bc951f7dc82cb43fe362145" category="list-text"><block ref="00a76af185a73b84e54e96058031aef5" category="inline-link-rx"></block></block>
   <block id="e1470cbc380c0e4285ea434aa1f30381" category="doc">Preparar sistemas de storage para replicação SnapMirror e SnapVault</block>
   <block id="e53c11d95478892635e2a7753106adc5" category="summary">Antes de adicionar um host e instalar os pacotes de plug-in, você deve completar todos os requisitos.</block>
   <block id="690761e3a499ee562da842d3bd6f2db0" category="doc">Pré-requisitos para adicionar hosts e instalar o plug-in do SnapCenter para Microsoft Exchange Server</block>
@@ -6823,7 +6822,6 @@
   <block id="9f2c74676fb5b339a2fd4a0ccd75bd1e" category="list-text">Importe programações do Windows e SQL da pasta do plug-in do SnapCenter para SQL Server do backup de DR.</block>
   <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="paragraph-title">Para mais informações</block>
   <block id="27e7993c4841ae5fd670cdd945ccb96d" category="inline-link-macro">APIs de recuperação de desastres</block>
-  <block id="ab9238ca6f628634f6f6f2cf63502cdb" category="paragraph">Veja <block ref="44de5c9fafab2e4e76e19e3717abc2e2" category="inline-link-macro-rx"></block>o vídeo.</block>
   <block id="a8827ae14ad272b19b5554bf29b0dd50" category="summary">Depois que o plug-in do SnapCenter para o armazenamento primário do SQL Server estiver novamente on-line, você deve fazer o failback para o storage primário.</block>
   <block id="c259d7aac6b257b97bf45bb54cdbfb28" category="doc">Failback do plug-in do SnapCenter para storage secundário do SQL Server para storage primário</block>
   <block id="7ffc5c3595639b4cfa7e25819a476178" category="list-text">Coloque o plug-in do SnapCenter para SQL Server no modo *Manutenção* na página hosts gerenciados.</block>
@@ -7709,7 +7707,6 @@
   <block id="13914c16a90c0b0c44e99f78ba2183b2" category="paragraph"><block ref="fe172164c0bbfbb71439d4e0d42883f5" prefix="" category="inline-code"></block></block>
   <block id="9aa96933bdaa05ec27830a1517e54f9a" category="paragraph">Ative ou desative o DR de armazenamento</block>
   <block id="9bb6ced642f1be37b6ad58e85292fffa" category="paragraph"><block ref="d1ce3cd66a1844665a722875b7dc8311" prefix="" category="inline-code"></block></block>
-  <block id="90840bc3d6109c892e0f709274fdc6b6" category="paragraph">Para obter mais informações, consulte o<block ref="af818973dd6acaf1e28a3bd4ca9bd4a5" category="inline-link-rx"></block> vídeo.</block>
   <block id="5f5192bbcb78a1952f0c1de27add636d" category="summary">Acessar a API fornece alguma perspetiva antes de começar a usá-la com os processos de fluxo de trabalho mais complexos em uma configuração ao vivo.</block>
   <block id="6f800f16fa2f6cc79e50877afd6a63ea" category="doc">Comece a usar a API REST</block>
   <block id="fdd4d0c913b5ae7ea60dd3bd11cc6109" category="paragraph">Você pode começar rapidamente a usar a API REST do SnapCenter. Acessar a API fornece alguma perspetiva antes de começar a usá-la com os processos de fluxo de trabalho mais complexos em uma configuração ao vivo.</block>
@@ -8134,4 +8131,7 @@
   <block id="d1f68d146c3a156b97620bbf537dc143" category="paragraph">As informações sobre os parâmetros que podem ser usados com o cmdlet e suas descrições podem ser obtidas executando _get-Help command_name_. Alternativamente, você também pode consultar o<block ref="f03332b8749704621bfe232d591a600b" category="inline-link-rx"></block>.</block>
   <block id="9792c7ba1a8a833a1c75e11c4a7b46c3" category="list-text">Se você quiser atualizar vários hosts, selecione todos os hosts, clique <block ref="725f4bf2ffc300942027282d0182533f" category="inline-image-macro-rx" type="image"></block>em e clique em *Upgrade* &gt; *OK*.</block>
   <block id="ae08501da5e1f78dacab0013886bb73e" category="image-alt">Atualização do SnapCenter</block>
+  <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
+  <block id="57cf9c4ee485623172a5c60cbee423a4" category="paragraph">Veja <block ref="96716f545c5cf1a209bf10c1a798ce38" category="inline-link-macro-rx"></block>o vídeo.</block>
+  <block id="86ea794e2d7fcff39be7476200e06b51" category="paragraph">Para obter mais informações, consulte o<block ref="a62945bfb4dadbe324d9f8ad560f4a1c" category="inline-link-rx"></block> vídeo.</block>
 </blocks>
