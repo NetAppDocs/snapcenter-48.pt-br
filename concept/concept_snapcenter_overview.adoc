@@ -28,13 +28,13 @@ O SnapCenter pode ser implantado das seguintes maneiras:
 +
 ** Dados em sistemas primários ONTAP FAS ou AFF e replicados para sistemas secundários ONTAP FAS ou AFF
 ** Dados em sistemas primários ONTAP Select
-** Dados em sistemas primários e secundários ONTAP FAS ou AFF e protegidos contra o storage de objetos StorageGRID local (usando a integração do backup na nuvem do NetApp BlueXP )
+** Dados que estão em sistemas primários e secundários ONTAP FAS ou AFF e protegidos no armazenamento de objetos StorageGRID local usando integração de backup e recuperação do NetApp
 
 
 * No local em uma nuvem híbrida para proteger o seguinte:
 +
 ** Dados em sistemas primários ONTAP FAS ou AFF e replicados para Cloud Volumes ONTAP
-** Dados em sistemas primários e secundários do ONTAP FAS ou AFF e protegidos contra storage de objetos e arquivamento na nuvem (usando a integração do NetApp BlueXP  Cloud Backup)
+** Dados que estão em sistemas primários e secundários ONTAP FAS ou AFF e protegidos para armazenamento de objetos e arquivos na nuvem usando integração de backup e recuperação do NetApp
 
 
 * Em uma nuvem pública para proteger o seguinte:
